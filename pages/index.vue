@@ -38,7 +38,7 @@ const items = [
             class="focus:outline-none"
           >
             <span
-              class="absolute inset-0"
+              class="absolute inset-0 mb-0"
               aria-hidden="true"
             />
           </NuxtLink>

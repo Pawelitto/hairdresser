@@ -1,0 +1,98 @@
+title: Magdalena Garus - Salon Fryzjerski Perfekt.
+description: Odkryj swoją nową fryzurę już dziś
+hero:
+  title: Odkryj swoją nową fryzurę już dziś
+  description: Nasze doświadczone ręce transformują Twoje włosy, oferując personalizowane strzyżenie i stylizację. Poczuj się wyjątkowo z każdym cięciem.
+  headline:
+    label: Kontakt
+    to: '#kontakt'
+    icon: i-heroicons-phone-arrow-down-left
+  links:
+    - label: Opinie
+      icon: i-heroicons-arrow-right-20-solid
+      trailing: true
+      to: '#opinie'
+      size: xl
+offer:
+  headline: Oferta
+  title: Odkryj nasze usługi fryzjerskie
+  description: Łączymy tradycję z nowoczesnością, oferując usługi na najwyższym poziomie. Poznaj naszą ofertę dostosowaną do Twoich potrzeb.
+  items:
+    - title: Strzyżenie damskie
+      description: Profesjonalne strzyżenie i stylizacja zgodna z najnowszymi trendami.
+      icon: i-heroicons-scissors
+    - title: Strzyżenie męskie
+      description: Precyzyjne cięcia i stylizacja, dostosowane do indywidualnych preferencji.
+      icon: i-heroicons-user
+    - title: Koloryzacja
+      description: Wysokiej jakości farbowanie w pełnej gamie kolorów, w tym techniki balayage i ombre.
+      icon: i-heroicons-paint-brush
+    - title: Pielęgnacja włosów
+      description: Regeneracja i nawilżanie dla zdrowych, błyszczących włosów.
+      icon: i-mdi-hair-dryer-outline
+    - title: Stylizacja na okazje
+      description: Eleganckie upięcia i stylizacje na specjalne wydarzenia.
+      icon: i-heroicons-heart
+    - title: Porady ekspertów
+      description: Profesjonalne doradztwo w doborze fryzur i produktów pielęgnacyjnych.
+      icon: i-heroicons-light-bulb
+testimonials:
+  headline: Opinie
+  title: Co mówią nasi klienci
+  description: Jakość naszych usług potwierdzona opiniami zadowolonych klientów.
+  items:
+    - quote: Super doradztwo, pomysły, ogrom wiedzy i piękne wykonanie, a do tego miło😀 i głowa staje się piękniejsza, to i zadowolona😁 A mąż po wizycie jeszcze przystojniejszy😍 Dziękuję😊…
+      author:
+        name: Kaja Koboj
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjW_BocgEGcq8p4la6FfLuZ-n1_3UCY0lCUuOuCWyc3XgR7toR2R=w72-h72-p-rp-mo-br100
+          loading: lazy
+    - quote: Nowe miejsce, nowy salon ale jakość i atmosfera bez zmian :⁠-⁠) Świetna obsługa, fantastyczna atmosfera i usługi na najwyższym poziomie, całkowicie polecam :-)
+      author:
+        name: Aleksander Szweda
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjW0PfcpQghBYlnq0QYLbL3XEmy31ZQbzCiUZampQEc2kKX1CfX4WA=w72-h72-p-rp-mo-ba5-br100
+          loading: lazy
+    - quote: Polecam! Profesjonalna obsługa pani wie o czym mówi. Pani wykonuje analizę kolorystyczną.
+      author:
+        name: Marcin Kubica
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjV74YWVsKwmZWbhL9nm2bAfLkwJx08aVdy8287vTuvVw7aXJdhQHA=w72-h72-p-rp-mo-ba4-br100
+          loading: lazy
+    - quote: Swobodna atmosfera, profesjonalne podejście do klienta, przemiła obsługa i pyszna kawa. :)
+      author:
+        name: Wojciech Greda
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjVUpCXnSdLfeTqJAoNjiWZo8dPLuEcLpfpbBKPI7BgZRJbBKYVHTw=w72-h72-p-rp-mo-ba4-br100
+          loading: lazy
+    - quote: Bardzo dobra fryzjerka. Perfekcjonistka.
+      author:
+        name: Ursus Bizon
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjXNysHozhwymtkF8vBeBDMSos3ToI2lgrjb-9ZH8Zh9ALWO3e0k=w72-h72-p-rp-mo-ba4-br100
+          loading: lazy
+    - quote: Najmilsza i najbardziej profesjonalna obsługa z jaką mialam doczynienia Uwielbiam i polecam
+      author:
+        name: Małgorzata Nowaczyk
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjWvFTlEKot0donwRAJCXH3v0QIs5zilcqP-42eUebTIZKYvnSH4=w72-h72-p-rp-mo-br100
+          loading: lazy
+    - quote: Pasja połączona z wiedzą. Polecam :)
+      author:
+        name: Alicja Dudek
+        avatar:
+          src: https://lh3.googleusercontent.com/a-/ALV-UjXN_9b7xFxdXiCxkmlLhX6Bi0q8ViHW50berOFSTk2l0PKym4vc=w72-h72-p-rp-mo-ba3-br100
+          loading: lazy
+faq:
+  title: Często zadawane pytania
+  description: Tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania dotyczące naszego zakładu fryzjerskiego.
+  items:
+    - label: Jakie usługi oferuje nasz zakład fryzjerski?
+      content: Nasz zakład specjalizuje się w szerokim zakresie usług fryzjerskich, takich jak strzyżenie, koloryzacja, trwała ondulacja, stylizacja, pielęgnacja włosów i wiele innych. Zapraszamy do zapoznania się z pełną listą usług na naszej stronie.
+      defaultOpen: true
+    - label: Jakie produkty fryzjerskie używamy?
+      content: W naszym salonie korzystamy z wysokiej jakości produktów renomowanych marek. Stawiamy na produkty, które są skuteczne i bezpieczne dla włosów i skóry głowy.
+    - label: Czy oferujemy usługi kosmetyczne?
+      content: Oprócz usług fryzjerskich, oferujemy również zabiegi kosmetyczne, takie jak manicure, pedicure, depilacja czy makijaż. Nasza kosmetyczka jest do Państwa dyspozycji.
+    - label: Jak dbamy o higienę w naszym salonie?
+      content: Nasz zakład przestrzega rygorystycznych standardów sanitarnych. Wszystkie narzędzia są dokładnie dezynfekowane po każdym kliencie, a stanowiska pracy są utrzymane w czystości.
